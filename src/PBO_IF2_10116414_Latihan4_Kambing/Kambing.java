@@ -24,8 +24,6 @@ public class Kambing {
     }
     public static void main(String[] args) {
         Kambing kambingJantan = new Kambing();
-        kambingJantan.tambahKambing();
-       
-        
+        kambingJantan.tambahKambing();               
     }    
 }
